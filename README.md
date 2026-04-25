@@ -265,6 +265,8 @@ Monitorar:
 
 # 🧑‍💼 10. Sobre o Autor
 
+Renato Mesquita
+
 Profissional de Engenharia de Dados e BI, especialista em:
 
 * pipelines e modelagem de dados
@@ -272,12 +274,4 @@ Profissional de Engenharia de Dados e BI, especialista em:
 * Python, SQL e plataformas de dados
 * criação de dashboards e automação inteligente
 
----
 
-📌 *Este relatório consolida toda a inteligência de negócio extraída diretamente do notebook e do dataset real.*
-
-
-
----
-
-📌 *Fique à vontade para explorar, sugerir melhorias ou abrir issues!*
