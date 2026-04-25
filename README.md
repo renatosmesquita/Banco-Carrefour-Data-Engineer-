@@ -190,8 +190,8 @@ tempo_envio = Data Envio − Data Venda
 
 A média (exata no notebook) fica entre **10 e 20 dias**, com alguns exemplos reais:
 
-* Venda: **2008-05-09**
-* Envio: **2008-05-29**
+* Venda: **2018-05-09**
+* Envio: **2018-05-29**
 * Diferença: **20 dias**
 
 ### Insights operacionais:
